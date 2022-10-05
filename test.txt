@@ -1,1 +1,2 @@
-Pull command test.
+Pull command test. its worked.
+Now push command test
