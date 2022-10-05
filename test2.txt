@@ -1,2 +1,2 @@
 push command test.
-:wq
+This is add a file from local
